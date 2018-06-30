@@ -1,4 +1,4 @@
-# Rails Security Checklist
+# Rails Security Checklist.
 
 This checklist is limited to Rails security precautions and there are many other aspects of running a Rails app that need to be secured (e.g. up-to-date operating system and other software) that this does not cover. **Consult a security expert.**
 
